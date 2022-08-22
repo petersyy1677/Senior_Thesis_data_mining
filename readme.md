@@ -1,2 +1,2 @@
 This is the capstone design project that I completed for Data Science Bachelors at the University Of Michigan (April 2020).
-![alt text](https://github.com/petersyy1677/Senior_Thesis_data_mining/blob/main/drug_network.jpg?raw=true)
+![Alt text](https://github.com/petersyy1677/Senior_Thesis_data_mining/blob/main/drug_network.jpg?raw=true)
