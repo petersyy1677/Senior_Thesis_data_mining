@@ -1,0 +1,7 @@
+You can access the codes for this part through the following link
+Louvain from adjacency matrix
+	https://colab.research.google.com/drive/1tSYM2nnBA1fvu2Z7Tw0XXjZAc6tZ3T-N
+drug_drug_similarity_visualization(Q1.ipynb)
+	https://colab.research.google.com/drive/1tQ9O7SyJ5A7F6Y-276wmSsF6fcPUibL3
+drug_disease
+	https://colab.research.google.com/drive/145GscIKb3JiaNZrrrXeZK9dD2KE4fd_e
